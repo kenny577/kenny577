@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 <h1 align="center">I'm Kenneth Araújo</h1>
-<h3 align="center">A developer from Brazil</h3>
+<h3 align="center">A developer from Germany</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
